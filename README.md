@@ -12,7 +12,8 @@ Import the numpy module to use the built-in functoin for calculation
 
 prepare the list from each equations and assign in np.array()
 ### Step 3: 
-using the np.linalg.solve()we can find the solutions
+
+Step 3: using the np.linalg.inv(),we can find the inverse of the given matrix.
 
 ### Step 4: 
 End the program
